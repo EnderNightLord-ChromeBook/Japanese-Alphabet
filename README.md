@@ -1,2 +1,5 @@
-# Learn-Japanese
-a android application to teach people how to learn japanese
+# Japanese-Alphabet
+
+an android application to teach people how to learn the japanese alphabet.
+
+Created by Camden Bruce
